@@ -1,0 +1,5 @@
+IP: 51.250.28.159;
+name_taski: https://taski.servebeer.com/;
+name_kittygram: https://kittygram-yandex.hopto.org/;
+login: lenovo;
+password: lenovo;
